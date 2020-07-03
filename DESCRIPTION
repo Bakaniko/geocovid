@@ -8,3 +8,5 @@ LazyData: true
 URL: https://github.com/Bakaniko/geocovid
 BugReports: https://github.com/Bakaniko/geocovid/issues
 Encoding: UTF-8
+Depends: 
+    R (>= 2.10)
