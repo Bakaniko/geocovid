@@ -1,13 +1,10 @@
 Package: geocovid
-Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: MIT + file LICENSE
-Encoding: UTF-8
+Title: Maps and webapps about COVID-19
+Version: 0.0.0.9000
+Authors@R: person('Nicolas', 'Roelandt', email = 'nicolas.roelandt@univ-gustave-eiffel.fr', role = c('cre', 'aut'), comment = '0000-0001-9698-4275')
+Description: Inventory of maps and webapps about COVID-19
+License: {{ License }}
 LazyData: true
-Suggests: 
-    testthat
+URL: https://github.com/Bakaniko/geocovid
+BugReports: https://github.com/Bakaniko/geocovid/issues
+Encoding: UTF-8
